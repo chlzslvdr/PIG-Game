@@ -8,6 +8,6 @@ This is a [Playground Exercise](https://pig-game-demo.netlify.app) made with [ U
 
 Learn DOM Manipulation and Events
 
-### Resources
+## Resources
 
 http://codingheroes.io/resources
