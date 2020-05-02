@@ -2,7 +2,7 @@
 
 # PIG-Game
 
-This is a [Playground Exercise](https://pig-game-demo.netlify.app) made with [ Udemy Complete Javascript Course](https://github.com/chlzslvdr/complete-javascript-course).
+This is a [Playground Exercise](https://pig-game-demo.netlify.app) made with [ Udemy Complete Javascript Course](https://github.com/jonasschmedtmann/complete-javascript-course).
 
 ## Purpose
 
